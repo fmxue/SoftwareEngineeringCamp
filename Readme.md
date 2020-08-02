@@ -8,4 +8,8 @@
 
 1.本机安装jupyter notebook并下载教程文件，在本地打开
 
-2.利用[在线网址](https://nbviewer.jupyter.org/)加载教程文件，打开网址后将地址"https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb"复制到框中即可。
+2.利用[在线网址](https://nbviewer.jupyter.org/)加载教程文件，打开网址后将地址
+
+https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb
+
+复制到框中即可。
