@@ -2,7 +2,9 @@
 
 大家好！欢迎大家参加众米量化大数据软件营！
 
-阅读[教程](https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb)
+阅读[教程1](https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb)
+
+阅读[教程2]()
 
 由于GitHub加载.ipynb文件缓慢且经常失败，如出现"Sorry, something went wrong. Reload?"字样可采用下述方法：
 
@@ -16,7 +18,7 @@ https://github.com/fmxue/SoftwareEngineeringCamp
 
 教程中需要用到的第三方库：
 
-pandas, matplotlib, seaborn, tushare, mplfinance
+pandas, matplotlib, seaborn, tushare, mplfinance, numpy, tensorflow, ...
 
 配好环境后pip安装即可
 
