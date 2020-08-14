@@ -2,9 +2,9 @@
 
 大家好！欢迎大家参加众米量化大数据软件营！
 
-阅读[教程1](https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb)
+阅读[教程1](https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Lecture%201/Data%20reading%2C%20Visualization%20and%20Exploratory%20analysis.ipynb)
 
-阅读[教程2]()
+阅读[教程2](https://github.com/fmxue/SoftwareEngineeringCamp/blob/master/Lecture%202/Prediction%20with%20neural%20network.ipynb)
 
 由于GitHub加载.ipynb文件缓慢且经常失败，如出现"Sorry, something went wrong. Reload?"字样可采用下述方法：
 
